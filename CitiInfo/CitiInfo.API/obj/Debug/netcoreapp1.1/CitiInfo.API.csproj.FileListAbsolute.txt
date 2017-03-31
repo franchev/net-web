@@ -1,0 +1,9 @@
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\bin\Debug\netcoreapp1.1\CitiInfo.API.deps.json
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\bin\Debug\netcoreapp1.1\CitiInfo.API.runtimeconfig.json
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\bin\Debug\netcoreapp1.1\CitiInfo.API.runtimeconfig.dev.json
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\bin\Debug\netcoreapp1.1\CitiInfo.API.dll
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\obj\Debug\netcoreapp1.1\CitiInfo.API.csprojResolveAssemblyReference.cache
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\obj\Debug\netcoreapp1.1\CitiInfo.API.AssemblyInfo.cs
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\bin\Debug\netcoreapp1.1\CitiInfo.API.pdb
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\obj\Debug\netcoreapp1.1\CitiInfo.API.dll
+C:\Users\frany\Source\githubRepos\CitiInfo\CitiInfo.API\obj\Debug\netcoreapp1.1\CitiInfo.API.pdb
