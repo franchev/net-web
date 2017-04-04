@@ -1,0 +1,8 @@
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.0\Library.API.deps.json
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.0\Library.API.runtimeconfig.json
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.0\Library.API.runtimeconfig.dev.json
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.0\Library.API.AssemblyInfo.cs
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.0\Library.API.dll
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.0\Library.API.pdb
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.0\Library.API.dll
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.0\Library.API.pdb

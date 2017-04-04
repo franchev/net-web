@@ -12,6 +12,8 @@ using Microsoft.AspNetCore.Mvc.Formatters;
 using NLog.Extensions.Logging;
 using CitiInfo.API.Services;
 using Microsoft.Extensions.Configuration;
+using CitiInfo.API.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace CitiInfo.API
 {
@@ -50,6 +52,9 @@ namespace CitiInfo.API
             //});
 #if DEBUG
             services.AddTransient<IMailService, LocalMailService>();
+
+            var connectionString = @"Server=(localdb)\mssqllocaldb;Database=CityInfoDb;Trusted_Connection=True;";
+            services.AddDbContext<CityInfoContext>(o => o.UseSqlServer(connectionString));
 #else
             services.AddTransient<IMailService, CloudMailService>();
 #endif

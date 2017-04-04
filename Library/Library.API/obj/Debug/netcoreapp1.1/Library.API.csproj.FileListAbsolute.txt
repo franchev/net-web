@@ -1,0 +1,6 @@
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.1\Library.API.deps.json
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.1\Library.API.runtimeconfig.json
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.1\Library.API.runtimeconfig.dev.json
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.1\Library.API.dll
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.1\Library.API.csprojResolveAssemblyReference.cache
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.1\Library.API.AssemblyInfo.cs
