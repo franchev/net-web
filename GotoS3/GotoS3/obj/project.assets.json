@@ -10051,15 +10051,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\frany\\.nuget\\packages\\": {}
+    "C:\\Users\\fkoulikov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frany\\Source\\githubRepos\\GotoS3\\GotoS3\\GotoS3.csproj",
+      "projectUniqueName": "C:\\Users\\fkoulikov\\Source\\Repos\\net-web\\GotoS3\\GotoS3\\GotoS3.csproj",
       "projectName": "GotoS3",
-      "projectPath": "C:\\Users\\frany\\Source\\githubRepos\\GotoS3\\GotoS3\\GotoS3.csproj",
-      "outputPath": "C:\\Users\\frany\\Source\\githubRepos\\GotoS3\\GotoS3\\obj\\",
+      "projectPath": "C:\\Users\\fkoulikov\\Source\\Repos\\net-web\\GotoS3\\GotoS3\\GotoS3.csproj",
+      "outputPath": "C:\\Users\\fkoulikov\\Source\\Repos\\net-web\\GotoS3\\GotoS3\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

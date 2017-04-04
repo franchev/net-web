@@ -6,3 +6,4 @@ C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp
 C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\bin\Debug\netcoreapp1.0\Library.API.pdb
 C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.0\Library.API.dll
 C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.0\Library.API.pdb
+C:\Users\fkoulikov\Source\Repos\net-web\Library\Library.API\obj\Debug\netcoreapp1.0\Library.API.csprojResolveAssemblyReference.cache
