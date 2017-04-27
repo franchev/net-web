@@ -3,14 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GotoS3.Models
+namespace GotoS3.API.Models
 {
-    public class accountDto
+    public class accountForCreationDto
     {
-        public int Id { get; set; }
         public string username { get; set; }
         public string accessKey { get; set; }
         public string secretKey { get; set; }
-        public ICollection<bucketDto> buckets { get; set; } = new List<bucketDto>();
     }
 }

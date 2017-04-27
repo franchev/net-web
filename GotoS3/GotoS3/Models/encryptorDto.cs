@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace GotoS3.Models
 {
-    public class encryptDto
+    public class encryptorDto
     {
         public int Id { get; set; }
         public string name { get; set; }

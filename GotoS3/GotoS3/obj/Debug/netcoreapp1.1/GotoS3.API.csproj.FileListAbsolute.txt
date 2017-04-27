@@ -1,0 +1,9 @@
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\bin\Debug\netcoreapp1.1\GotoS3.API.deps.json
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\bin\Debug\netcoreapp1.1\GotoS3.API.runtimeconfig.json
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\bin\Debug\netcoreapp1.1\GotoS3.API.runtimeconfig.dev.json
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\obj\Debug\netcoreapp1.1\GotoS3.API.csprojResolveAssemblyReference.cache
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\obj\Debug\netcoreapp1.1\GotoS3.API.AssemblyInfo.cs
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\bin\Debug\netcoreapp1.1\GotoS3.API.dll
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\bin\Debug\netcoreapp1.1\GotoS3.API.pdb
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\obj\Debug\netcoreapp1.1\GotoS3.API.dll
+C:\Users\fkoulikov\Source\Repos\net-web\GotoS3\GotoS3\obj\Debug\netcoreapp1.1\GotoS3.API.pdb
