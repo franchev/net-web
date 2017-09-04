@@ -1,0 +1,10 @@
+Angular is made up of components
+* create a component
+* register it in a module
+* Add an element in an HTML markup
+
+
+to make a typescript class a component, we need to add an angular decorator to it
+
+Creating a component from the command line
+$ ng g c course       -> ng g (generate) c (component) [name of component]

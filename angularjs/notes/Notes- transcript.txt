@@ -1,0 +1,69 @@
+installed node js
+- verify that node js is installed
+node --version
+- From the command prompt install angular/cli
+npm install -g @angular/cli
+- verfiy that angular/cli ins intalled
+ng --version
+- creating a new angular project
+ng new hello-world
+- to start an angular application
+ng serve
+
+Hot Module Replacement
+
+- Installing typescript globally
+npm install -g typescript
+
+- check out version of typescript
+tsc --version
+
+Typescript types of variables
+number
+boolean
+string
+any
+array which is declared as such for example number [] = [1,2,3];
+enum
+example: enum Color { Red=0, Green =1, Blue =2, Purple = 3}
+
+full example of typescript variable declaration:
+let a: number;
+let b: boolean;
+let c: string;
+let d: any;
+let e: number[] = [1,2,3];
+let f: any[] = [1, true, 'a', false]; /* not recommended */
+
+enum Color { Red = 0, Green = 1, Blue = 2, Purple = 3 };
+let backgroundColor = Color.Red;
+
+Type assertion in Typescript
+For example if you want something to be a string after it was declared as something else
+let message; /* this automatically gets a type of any */
+message = 'abc';
+let endsWithC = (<string>message).endsWith('c'); /* one way to do this */
+let alternativeWay = (message as string).endsWith('c'); /* second way to do this */
+
+arrowFunction
+the javascript way to declaring a function:
+let log = function(message) {
+  console.log(message);
+  }
+
+using the arrowFunction in typescript
+let doLog = (message) => {
+  console.log(message);
+}
+let doLog = (message) => console.log(message); /* shorter version if your inner section is only a line */
+
+Cohesion
+
+- if you get this error:
+C:\Users\frany\ts-hello>tsc like.component.ts
+like.component.ts(7,9): error TS1056: Accessors are only available when targetin
+g ECMAScript 5 and higher.
+like.component.ts(11,9): error TS1056: Accessors are only available when targeti
+ng ECMAScript 5 and higher.
+to resolve simply pass the ES5 target 
+tsc like.component.ts --target ES5
